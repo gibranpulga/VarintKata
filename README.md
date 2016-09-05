@@ -1,5 +1,6 @@
-# This is my solution to # varint kata by [Eric Le Merdy](http://eric.lemerdy.name/)
-# Problem description is at the end.
+#This is my solution to Varint kata by [Eric Le Merdy](http://eric.lemerdy.name/)
+
+Problem description is at the end.
 
 # Notes
 
